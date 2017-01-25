@@ -3,7 +3,9 @@ A simple OpenGL-based editor for polynomial B-splines. Written in C++ using GLUT
 
 # Screenshots
 Cubic B-Spline (uniform)
-<img alt="Cubic B-Spline" src="Screenshots/Cubic B-Spline.jpg" width="450" />
+
+<img alt="Cubic B-Spline" src="Screenshots/Cubic B-Spline.jpg" />
 
 Quadratic B-Spline (non-uniform)
-<img alt="Quadratic NURBS" src="Screenshots/Quadratic Non-uniform B-Spline.jpg" width="450" />
+
+<img alt="Quadratic NURBS" src="Screenshots/Quadratic Non-uniform B-Spline.jpg" />

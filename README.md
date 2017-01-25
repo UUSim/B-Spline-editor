@@ -7,4 +7,3 @@ Cubic B-Spline (uniform)
 
 Quadratic B-Spline (non-uniform)
 <img alt="Quadratic NURBS" src="Screenshots/Quadratic Non-uniform B-Spline.jpg" width="450" />
-
